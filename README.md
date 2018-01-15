@@ -14,7 +14,9 @@
    - https://www.webdesignerdepot.com/2017/03/a-beginners-guide-to-designing-conversational-interfaces/
 
  *  Mid: 
+ 
    - http://digintent.com/bots/ *really interesting talk*
+   
 
  * Google Guidelines:
    - https://developers.google.com/actions/design/be-cooperative
